@@ -1,0 +1,16 @@
+langchain
+langgraph
+langgraph-redis
+langchain-google-genai
+langchain-huggingface
+langchain-community
+faiss-cpu
+sentence-transformers
+fastapi
+uvicorn
+python-dotenv
+tiktoken
+langchain-text-splitters
+tavily-python 
+langchain-nomic 
+redis
