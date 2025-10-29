@@ -1,0 +1,6 @@
+/venv
+/vectorstore
+/data
+__pycache__/
+/final_code
+.env
